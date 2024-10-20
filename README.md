@@ -1,8 +1,10 @@
 RTTR Leather Economy Addon - by aztimh
 
 NEW BUILDINGS:
+
 Hut:
 - Skinner
+
 House:
 - Tannery
 - Leatherworks
