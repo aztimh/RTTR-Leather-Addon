@@ -10,14 +10,14 @@ House:
 - Leatherworks
 
 NEW WARES:
-- Skins (Leatherworking) (starting goods: very low/low/normal/a lot: 0/0/0/0)
-- Leather (Leatherworking) (starting goods: 0/0/0/0)
-- Armor (Weapons) (starting goods: 0/0/0/0)
+- Skins (Leatherworking)
+- Leather (Leatherworking)
+- Armor (Weapons)
 
 NEW PEOPLE:
-- Skinner (Cleaver) (starting goods: very low/low/normal/a lot: 0/0/0/0)
-- Tanner (Saw) (starting goods: very low/low/normal/a lot: 0/0/0/0)
-- Leatherworker (Tongs) (starting goods: very low/low/normal/a lot: 0/0/0/0)
+- Skinner (Cleaver)
+- Tanner (Saw)
+- Leatherworker (Tongs)
 
 GAMEPLAY CHANGES:
 - After a hunter kills wild animals and collects meat (or they perish) the carcass will now remain temporarily giving the skinner the ability to collect skins for the tanner to make leather. This provides early game leather until pig farms can be invested in later on.
