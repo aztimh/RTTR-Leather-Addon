@@ -1,0 +1,151 @@
+LEATHER.LST Glossary
+GFX#
+1. African Skinner
+2. Shadow
+3. Scaffold
+4. Scaffold shadow
+5. Open door
+6. Winter version
+7. Winter Shadow
+8. Winter open door
+9. Building Icon
+
+10. African Tannery
+11. Shadow
+12. Scaffold
+13. Scaffold shadow
+14. Open door
+15. Winter version
+16. Winter Shadow
+17. Winter open door
+18. Building Icon
+
+19. African Leatherworks
+20. Shadow
+21. Scaffold
+22. Scaffold shadow
+23. Open door
+24. Winter version
+25. Winter Shadow
+26. Winter open door
+27. Building Icon
+
+28. Japanese Skinner
+29. Shadow
+30. Scaffold
+31. Scaffold shadow
+32. Open door
+33. Winter version
+34. Winter Shadow
+35. Winter open door
+36. Building Icon
+
+37. Japanese Tannery
+38. Shadow
+39. Scaffold
+40. Scaffold shadow
+41. Open door
+42. Winter version
+43. Winter Shadow
+44. Winter open door
+45. Building Icon
+
+46. Japanese Leatherworks
+47. Shadow
+48. Scaffold
+49. Scaffold shadow
+50. Open door
+51. Winter version
+52. Winter shadow
+53. Winter open door
+54. Building Icon
+
+55. Roman Skinner
+56. Shadow
+57. Scaffold
+58. Scaffold shadow
+59. Open door
+60. Winter version
+61. Winter Shadow
+62. Winter open door
+63. Building Icon
+
+64. Roman Tannery
+65. Shadow
+66. Scaffold
+67. Scaffold shadow
+68. Open door
+69. Winter version
+70. Winter Shadow
+71. Winter open door
+72. Building Icon
+
+73. Roman Leatherworks
+74. Shadow
+75. Scaffold
+76. Scaffold shadow
+77. Open door
+78. Winter version
+79. Winter Shadow
+80. Winter open door
+81. Building Icon
+
+82. Viking Skinner
+83. Shadow
+84. Scaffold
+85. Scaffold shadow
+86. Open door
+87. Winter version
+88. Winter Shadow
+89. Winter open door
+90. Building Icon
+
+91. Viking Tannery
+92. Shadow
+93. Scaffold
+94. Scaffold shadow
+95. Open door
+96. Winter version
+97. Winter shadow
+98. Winter open door
+99. Building Icon
+
+100. Viking Leatherworks
+101. Shadow
+102. Scaffold
+103. Scaffold shadow
+104. Open door
+105. Winter version
+106. Winter shadow
+107. Winter open door
+108. Building Icon
+
+109. Babylonian Skinner
+110. Shadow
+111. Scaffold
+112. Scaffold shadow
+113. Open door
+114. Winter version
+115. Winter Shadow
+116. Winter open door
+117. Building Icon
+
+118. Babylonian Tannery
+119. Shadow
+120. Scaffold
+121. Scaffold shadow
+122. Open door
+123. Winter version
+124. Winter Shadow
+125. Winter open door
+126. Building Icon
+
+127. Babylonian Leatherworks
+128. Shadow
+129. Scaffold
+130. Scaffold shadow
+131. Open door
+132. Winter version
+133. Winter Shadow
+134. Winter open door
+135. Building Icon

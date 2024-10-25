@@ -1,0 +1,26 @@
+Leather Building DoorConsts:
+
+Africans
+Skinner: 12
+Tannery: 4
+Leatherworks: 10
+
+Japanese
+Skinner: 9
+Tannery: 9
+Leatherworks: 13
+
+Romans
+Skinner: 11
+Tannery: 8
+Leatherworks: 12
+
+Vikings
+Skinner: 12
+Tannery: 17
+Leatherworks: 8
+
+Babylonians
+Skinner: 8
+Tannery: 9
+Leatherworks: 12

@@ -1,0 +1,56 @@
+Leather Addon Nation Offsets:
+
+TANNERY Work Window:
+
+Africans: (28,-14)
+Japanese: (28,-8)
+Romans: (-14,-22)
+Vikings: (-5,-25)
+Babylonians: (17,-35)
+
+LEATHERWORKS Work Window:
+
+Africans: (11,-41)
+Japanese: (21,-20)
+Romans: (21,-17)
+Vikings: (24,-13)
+Babylonians: (22,-14)
+
+Chimney Smoke:
+
+romans[BuildingType::Skinner] = SmokeConst(2, {6, -41});
+romans[BuildingType::Tannery] = SmokeConst(3, {-23, -42});
+
+vikings[BuildingType::Skinner] = SmokeConst(1, {7, -39});
+vikings[BuildingType::Tannery] = SmokeConst(3, {-12, -46});
+vikings[BuildingType::Leatherworks] = SmokeConst(2, {-15, -37});
+
+africans[BuildingType::Skinner] = SmokeConst(3, {5, -45});
+africans[BuildingType::Tannery] = SmokeConst(2, {24, -39});
+
+Stop Production (X sign):
+
+Africans
+Skinner: (-14,-1)
+Tannery: (-16,-10)
+Leatherworks: (22,6)
+
+Japanese
+Skinner: (13,-1)
+Tannery: (-6,2)
+Leatherworks: (4,-18)
+
+Romans
+Skinner: exact: (13,-7)
+Tannery: exact: (-6,-2)
+Leatherworks: (-15,-8)
+
+Vikings
+Skinner: (-7,-4)
+Tannery: (-7,1)
+Leatherworks: (-15,-8)
+
+Babylonians
+Skinner: (-7,-3)
+Tannery: (3,-18)
+Leatherworks: (5,-4)
