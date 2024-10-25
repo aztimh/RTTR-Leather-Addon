@@ -1,0 +1,35 @@
+Military buildings can have coins and armor delivered to them. Have a separate X sign toggle for armor and coins. The armor sign is offset from each nation's X stop coins location.
+
+Override the stop coins normal X sign with GFX#368 in LEATHER_BOBS.LST
+
+Stop Armor (GFX#369) (Offset from stop coins X sign):
+
+Africans
+Barracks: (8,15) (left 8 and up 15 pixels)
+Guardhouse: (11,18)
+Watchtower: (0,19)
+Fortress: (2,19)
+
+Japanese
+Barracks: (0,8)
+Guardhouse: (0,8)
+Watchtower: (0,10)
+Fortress: (-12,5) (right 12 and down 5 pixels)
+
+Romans
+Barracks: (0,8)
+Guardhouse: (0,8)
+Watchtower: (19,-2)
+Fortress: (0,10)
+
+Vikings
+Barracks: (-19,10)
+Guardhouse: (-20,7)
+Watchtower: (0,11)
+Fortress: (-9,3)
+
+Babylonians
+Barracks: (14,5)
+Guardhouse: (0,-9)
+Watchtower: (0,13)
+Fortress: (0,24)
