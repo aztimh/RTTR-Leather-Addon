@@ -41,8 +41,8 @@ Tannery: (-6,2)
 Leatherworks: (4,-18)
 
 Romans
-Skinner: exact: (13,-7)
-Tannery: exact: (-6,-2)
+Skinner: (13,-7)
+Tannery: (-6,-2)
 Leatherworks: (-15,-8)
 
 Vikings
