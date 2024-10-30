@@ -65,7 +65,7 @@ NEW MILITARY OPTIONS:
 - *The capacity of military buildings to store armor is the same as coins: 1,2,4,6 for barracks, guardhouse, watchtower and fortress.
 - There is now a stop armor toggle as well as the stop coins toggle.
 
-*These numbers could be adjusted for balance. For example armorm could resist catapults less or we could lower the capacity for storing armor in buildings so it isn't too effective at countering catapults. Or resisting catapults could be a separate addon. My other idea for capacity was: Barracks/Guardhouse/Watchtower/Fortress: 0/1/2/3. Meaning it encourages building the larger fortifications and also you can't have too much armor in reserve when under attack from catapults.
+*These numbers could be adjusted for balance. For example armor could resist catapults less or we could lower the capacity for storing armor in buildings so it isn't too effective at countering catapults. Or resisting catapults could be a separate addon. My other idea for capacity was: Barracks/Guardhouse/Watchtower/Fortress: 0/1/2/3. Meaning it encourages building the larger fortifications and also you can't have too much armor in reserve when under attack from catapults.
 
 GENERAL OVERVIEW:
 
