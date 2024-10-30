@@ -61,9 +61,10 @@ NEW MILITARY OPTIONS:
 
 1. ARMOR
 - Armor crafted by the Leatherworker is taken to military buildings (like coins). It is used up 1 soldier at a time to give a +1hp bonus to soldiers. Once hit, this bonus hp is lost until an additional armor is equipped. A (+1) is indicated next to their HP if soldier hp addon is enabled.
-- Armor also gives soldiers a 30% chance to resist a single hit from a catapult increasing resilience against siege bombardment. So 70% of the time they die as normal; 30% of the time they just lose their armor instead.
-- The capacity of military buildings to store armor is the same as coins: 1,2,4,6 for barracks, guardhouse, watchtower and fortress.
+- Armor also gives soldiers a 30% chance to resist a single hit from a catapult increasing resilience against siege bombardment. So 70% of the time they die as normal; 30% of the time they just lose their armor instead.*
+- The capacity of military buildings to store armor is the same as coins: 1,2,4,6 for barracks, guardhouse, watchtower and fortress.*
 - There is now a stop armor toggle as well as the stop coins toggle.
+- *These numbers could be adjusted for balance. For example armorm could resist catapults less or we could lower the capacity for storing armor in buildings so it isn't too effective at countering catapults. Or resisting catapults could be a separate addon. My other idea for capacity was: Barracks/Guardhouse/Watchtower/Fortress: 0/1/2/3. Meaning it encourages building the larger fortifications and also you can't have too much armor in reserve when under attack from catapults.
 
 GENERAL OVERVIEW:
 
