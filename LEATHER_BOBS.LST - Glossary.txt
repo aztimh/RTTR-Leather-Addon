@@ -7,71 +7,29 @@ GFX#    - Description
 69-116* - Skinner carrying skins *77-84,101-108 carrying out/in from house (when using pig)
 117-124 - Tannery work window - 8 frame loop
 125-172 - Tanner walking
-173-188 - Tanner carrying leather out (and back in if flag is full)
-189-211 - Leatherworks work window - 23 frame loop
-212-269 - Leatherworker walking
-270-285 - Leatherworker carrying armor out (and back in if flag is full)
-286     - Thin carrier head - skins facing right (all frames) (stitch to legs)
-287     - Thin carrier head - skins facing down right (all frames) (stitch to legs)
-288     - Thin carrier head - skins facing down left (all frames) (stitch to legs)
-289     - Thin carrier head - skins facing left (frames: 1-4,6-8) (stitch to legs)
-290     - Thin carrier head - skins facing left (frame 5) (stitch to legs)
-291     - Thin carrier head - skins facing up left (all frames) (stitch to legs)
-292     - Thin carrier head - skins facing up right (all frames) (stitch to legs)
-293     - Fat carrier head - skins facing right (all frames) (stitch to legs)
-294     - Fat carrier head - skins facing down right (all frames) (stitch to legs)
-295     - Fat carrier head - skins facing down left (all frames) (stitch to legs)
-296     - Fat carrier head - skins facing left (frame 1) (stitch to legs)
-297     - Fat carrier head - skins facing left (frames: 2-4,6-8) (stitch to legs)
-298     - Fat carrier head - skins facing left (frame 5) (stitch to legs)
-299     - Fat carrier head - skins facing up left (all frames) (stitch to legs)
-300     - Fat carrier head - skins facing up right (all frames) (stitch to legs)
-301-306 - Thin carrier heads - leather (stitch to legs)
-307-312 - Fat carrier heads - leather (stitch to legs)
-313     - Thin carrier head - armor facing right (all frames) (stitch to legs)
-314     - Thin carrier head - armor facing down right (all frames) (stitch to legs)
-315     - Thin carrier head - armor facing down left (frames: 1,8) (stitch to legs)
-316     - Thin carrier head - armor facing down left (frame 2) (stitch to legs)
-317     - Thin carrier head - armor facing down left (frame 3) (stitch to legs)
-318     - Thin carrier head - armor facing down left (frame 4) (stitch to legs)
-319     - Thin carrier head - armor facing down left (frames: 5-7) (stitch to legs)
-320-327 - Thin carrier head - armor facing left (each frame in order: 1-8) (stitch to legs)
-328     - Thin carrier head - armor facing up left (frame 1) (stitch to legs)
-329     - Thin carrier head - armor facing up left (frame 2) (stitch to legs)
-330     - Thin carrier head - armor facing up left (frame 3) (stitch to legs)
-331     - Thin carrier head - armor facing up left (frames: 4,5) (stitch to legs)
-332     - Thin carrier head - armor facing up left (frame 6) (stitch to legs)
-333     - Thin carrier head - armor facing up left (frame 7) (stitch to legs)
-334     - Thin carrier head - armor facing up left (frame 8) (stitch to legs)
-335     - Thin carrier head - armor facing up right (all frames) (stitch to legs)
-336     - Fat carrier head - armor facing right (all frames) (stitch to legs)
-337     - Fat carrier head - armor facing down right (all frames) (stitch to legs)
-338     - Fat carrier head - armor facing down left (frames: 1,2,7,8) (stitch to legs)
-339-342 - Fat carrier head - armor facing down left (frames in order: 3-6) (stitch to legs)
-343     - Fat carrier head - armor facing left (frame 1) (stitch to legs)
-344     - Fat carrier head - armor facing left (frame 2) (stitch to legs)
-345     - Fat carrier head - armor facing left (frames: 3,7) (stitch to legs)
-346     - Fat carrier head - armor facing left (frame 4) (stitch to legs)
-347     - Fat carrier head - armor facing left (frame 5) (stitch to legs)
-348     - Fat carrier head - armor facing left (frame 6) (stitch to legs)
-349     - Fat carrier head - armor facing left (frame 8) (stitch to legs)
-350     - Fat carrier head - armor facing up left (frame 1) (stitch to legs)
-351     - Fat carrier head - armor facing up left (frame 2) (stitch to legs)
-352     - Fat carrier head - armor facing up left (frames: 3-7) (stitch to legs)
-353     - Fat carrier head - armor facing up right (all frames) (stitch to legs)
-354     - Distribution of Pigs Icon (for tab containing slaughterhouse and skinner)
-355     - Skins Ware Icon
-356     - Leather Ware Icon/Leatherworking wares transport Icon (wares priority tree)
-357     - Armor Ware Icon/Deliver Armor Icon
-358     - Disable delivery of Armor Icon (toggled in military buildings like coins)
-359     - Skinner Job Icon
-360     - Tanner Job Icon
-361     - Leatherworker Job Icon
-362     - Skins Ware (on ground at flag)
-363     - Donkey/boat carrying skins ware
-364     - Leather Ware (on ground at flag)
-365     - Donkey/boat carrying leather ware
-366     - Armor Ware (on ground at flag)
-367     - Donkey/boat carrying armor ware
-368     - Stop Coins X sign (for military buildings) (Overrides usual X sign)
-369     - Stop Armor X sign (for military buildings) (additional sign for stopping armor)
+173-220 - Tanner carrying leather out (and back in if flag is full) (48 with empty)
+221-243 - Leatherworks work window - 23 frame loop
+244-291 - Leatherworker walking
+292-339 - Leatherworker carrying armor out (and back in if flag is full) (48 with empty)
+340-387 - Thin carrier - skins
+388-435 - Fat carrier - skins
+436-483 - Thin carrier - leather
+484-531 - Fat carrier - leather
+532-579 - Thin carrier - armor
+582-627 - Fat carrier - armor
+628     - Distribution of Pigs Icon (for tab containing slaughterhouse and skinner)
+629     - Skins Ware Icon
+630     - Leather Ware Icon/Leatherworking wares transport Icon (wares priority tree)
+631     - Armor Ware Icon/Deliver Armor Icon
+632     - Disable delivery of Armor Icon (toggled in military buildings like coins)
+633     - Skinner Job Icon
+634     - Tanner Job Icon
+635     - Leatherworker Job Icon
+636     - Skins Ware (on ground at flag)
+637     - Donkey/boat carrying skins ware
+638     - Leather Ware (on ground at flag)
+639     - Donkey/boat carrying leather ware
+640     - Armor Ware (on ground at flag)
+641     - Donkey/boat carrying armor ware
+642     - Stop Coins X sign (for military buildings) (Overrides usual X sign)
+643     - Stop Armor X sign (for military buildings) (additional sign for stopping armor)
