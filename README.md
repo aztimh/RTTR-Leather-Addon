@@ -40,7 +40,7 @@ NEW BUILDINGS
 
 2. TANNERY
 - House: 2 Boards, 2 Stones
-- "The tanner works animals skins to form leather. Before tanning; the skins are cured, scraped and stretched on wooden frames made from boards. Leather is used to produce armor at the leatherworks."
+- "The tanner works animal skins to form leather. Before tanning; the skins are cured, scraped and stretched on wooden frames made from boards. Leather is used to produce armor at the leatherworks."
 - Worker/Tool: Tanner/Saw
 - Worker Icon: Saw with skins on frame
 - Goods in: Skins and Boards
