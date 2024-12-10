@@ -16,7 +16,7 @@ GFX#    - Description
 436-483 - Thin carrier - leather
 484-531 - Fat carrier - leather
 532-579 - Thin carrier - armor
-582-627 - Fat carrier - armor
+580-627 - Fat carrier - armor
 628     - Distribution of Pigs Icon (for tab containing slaughterhouse and skinner)
 629     - Skins Ware Icon
 630     - Leather Ware Icon/Leatherworking wares transport Icon (wares priority tree)
