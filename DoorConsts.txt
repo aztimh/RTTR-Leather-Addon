@@ -13,7 +13,7 @@ Leatherworks: 13
 Romans
 Skinner: 11
 Tannery: 8
-Leatherworks: 12
+Leatherworks: 8
 
 Vikings
 Skinner: 12
