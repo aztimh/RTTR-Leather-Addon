@@ -33,7 +33,7 @@ Stop Production (X sign):
 Africans
 Skinner: (-14,-1)
 Tannery: (-16,-10)
-Leatherworks: (22,6)
+Leatherworks: (22,-6)
 
 Japanese
 Skinner: (13,-1)
@@ -53,4 +53,4 @@ Leatherworks: (-15,-8)
 Babylonians
 Skinner: (-7,-3)
 Tannery: (3,-18)
-Leatherworks: (5,-4)
+Leatherworks: (15,-31)
